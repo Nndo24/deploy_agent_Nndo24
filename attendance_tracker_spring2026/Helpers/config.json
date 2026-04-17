@@ -1,0 +1,7 @@
+{
+    "thresholds": {
+        "warning": 75,
+        "failure": 50
+    },
+    "log_file": "reports/reports.log"
+}
