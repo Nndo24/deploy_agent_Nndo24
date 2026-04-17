@@ -56,7 +56,7 @@ One of the key features of this "Project Factory" is its ability to handle inter
 
 After execution, the script generates the following structure:
 ```text
-attendance_tracker_{input}/
+attendance_tracker_spring2026/
 ├── attendance_checker.py   # Main logic
 ├── Helpers/                # Configuration & Assets
 │   ├── assets.csv          # Student data
